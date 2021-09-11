@@ -1,0 +1,17 @@
+C:\Users\Студент\source\repos\FrameExample\FrameExample\bin\Debug\FrameExample.exe.config
+C:\Users\Студент\source\repos\FrameExample\FrameExample\bin\Debug\FrameExample.exe
+C:\Users\Студент\source\repos\FrameExample\FrameExample\bin\Debug\FrameExample.pdb
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\NewsPage.g.cs
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample_MarkupCompile.cache
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample_MarkupCompile.lref
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\NewsPage.baml
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.g.resources
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.Properties.Resources.resources
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.exe
+C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\FrameExample.pdb
