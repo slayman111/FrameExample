@@ -10,7 +10,7 @@
 
     <Grid>
         <StackPanel HorizontalAlignment="Center">
-            <Image x:Name="image" Height="180" Width="290" Source="logo.png"/>
+            <Image x:Name="image" Height="180" Width="290" Source="/FrameExample;component/Images/logo.png"/>
             <Button x:Name="btnHeigth" FontSize="20" Content="Hide Image" Width="180" Height="32"
                     Click="btnHeigth_Click"/>
         </StackPanel>

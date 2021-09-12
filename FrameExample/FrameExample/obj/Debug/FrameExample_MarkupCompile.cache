@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Студент\source\repos\FrameExample\FrameExample\obj\Debug\
+C:\Users\Home\Downloads\FrameExample\FrameExample\obj\Debug\
 FrameExample
 none
 false
 DEBUG;TRACE
-C:\Users\Студент\source\repos\FrameExample\FrameExample\App.xaml
-2-395909352
+C:\Users\Home\Downloads\FrameExample\FrameExample\App.xaml
+2-480680864
 
-6-2093154678
+6-23630829
 13-1505183044
-MainWindow.xaml;NewsPage.xaml;
+Views\Windows\MainWindow.xaml;Views\Pages\NewsPage.xaml;
 
 False
 
